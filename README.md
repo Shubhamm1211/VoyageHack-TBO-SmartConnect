@@ -58,16 +58,16 @@ cd TBO-SmartConnect
 ```bash  
 cd backend  
 python -m venv venv  
-source venv/bin/activate   # On Windows: venv\Scripts\activate  
+venv\Scripts\activate  
 pip install -r requirements.txt  
-python app.py  # Runs on http://127.0.0.1:5000  
+python app.py  
 ```
 
 ### **3️. Setup Frontend (React.js)**  
 ```bash  
 cd frontend  
 npm install  
-npm run dev  # Runs on http://localhost:5173  
+npm run dev 
 ```
 
 ---
