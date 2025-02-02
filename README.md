@@ -94,14 +94,6 @@ npm run dev  # Runs on http://localhost:5173
 ]  
 ```
 
----
-
-##  Screenshots  
-**User Input Form & Recommendations**  
-![UI Screenshot](public/ui-screenshot.png)  
-
-**Postman API Test**  
-![API Screenshot](public/api-test.png)  
 
 ---
 
