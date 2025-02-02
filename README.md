@@ -1,11 +1,11 @@
 # 🚀 TBO SmartConnect – A Travel Agent Suite  
-**AI-Powered Travel Recommender for Personalized and Data-Driven Travel Planning**  
+**Travel Recommender for Personalized and Data-Driven Travel Planning**  
 
 
 ---
 
 ## 🌟 Overview  
-TBO SmartConnect is an **AI-driven travel recommendation system** that helps travel agents provide **personalized, data-backed travel package suggestions** based on customer preferences.  
+TBO SmartConnect is an **ML-driven travel recommendation system** that helps travel agents provide **personalized, data-backed travel package suggestions** based on customer preferences.  
 
 🔹 **Machine Learning-Powered Recommendations** – Smart ranking of packages with booking probability predictions.  
 🔹 **Seamless API Integration** – Built with Flask backend and a robust ML model.  
@@ -47,14 +47,14 @@ TBO SmartConnect is an **AI-driven travel recommendation system** that helps tra
 
 ---
 
-## 🚀 Quick Start  
-### **1️⃣ Clone the Repository**  
+##  Quick Start  
+### **1️. Clone the Repository**  
 ```bash  
 git clone https://github.com/yourusername/TBO-SmartConnect.git  
 cd TBO-SmartConnect  
 ```
 
-### **2️⃣ Setup Backend (Flask API)**  
+### **2️. Setup Backend (Flask API)**  
 ```bash  
 cd backend  
 python -m venv venv  
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 python app.py  # Runs on http://127.0.0.1:5000  
 ```
 
-### **3️⃣ Setup Frontend (React.js)**  
+### **3️. Setup Frontend (React.js)**  
 ```bash  
 cd frontend  
 npm install  
@@ -72,7 +72,7 @@ npm run dev  # Runs on http://localhost:5173
 
 ---
 
-## 🎯 API Endpoints  
+##  API Endpoints  
 | **Endpoint** | **Method** | **Description** |  
 |-------------|-----------|----------------|  
 | `/predict` | `POST` | Returns **booking probability** for a travel package |  
