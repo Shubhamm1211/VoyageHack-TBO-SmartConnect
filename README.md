@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Overview  
+##  Overview  
 TBO SmartConnect is an **ML-driven travel recommendation system** that helps travel agents provide **personalized, data-backed travel package suggestions** based on customer preferences.  
 
 🔹 **Machine Learning-Powered Recommendations** – Smart ranking of packages with booking probability predictions.  
