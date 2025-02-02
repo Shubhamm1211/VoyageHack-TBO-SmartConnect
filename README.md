@@ -14,7 +14,7 @@ TBO SmartConnect is an **ML-driven travel recommendation system** that helps tra
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 ### **Frontend**  
 - React.js (Vite) – Fast & modern UI  
 - Tailwind CSS – Responsive styling  
@@ -37,7 +37,7 @@ TBO SmartConnect is an **ML-driven travel recommendation system** that helps tra
 
 ---
 
-## 🔧 Features  
+##  Features  
 ✔ **Smart Travel Recommendations** – Suggests the best packages based on user preferences.  
 ✔ **Booking Probability Prediction** – AI estimates the likelihood of a user booking a package.  
 ✔ **Real-Time API Response** – Optimized Flask backend with response time <200ms.  
@@ -96,7 +96,7 @@ npm run dev  # Runs on http://localhost:5173
 
 ---
 
-## 📸 Screenshots  
+##  Screenshots  
 **User Input Form & Recommendations**  
 ![UI Screenshot](public/ui-screenshot.png)  
 
@@ -105,7 +105,7 @@ npm run dev  # Runs on http://localhost:5173
 
 ---
 
-## 🔮 Future Enhancements  
+##  Future Enhancements  
 🔹 **Live Travel API Integration** – Connect with Booking.com, Expedia, and real-time pricing.  
 🔹 **AR/VR Travel Previews** – Virtual exploration of destinations before booking.  
 🔹 **AI Chatbot for Travel Agents** – NLP-powered assistant to enhance customer engagement.  
