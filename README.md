@@ -1,8 +1,5 @@
 # 🚀 TBO SmartConnect – Empowering Travel Agents with ML-Driven Precision
 
-**Travel Recommender for Personalized and Data-Driven Travel Planning**  
-
-
 ---
 
 ##  Overview  
