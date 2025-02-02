@@ -95,21 +95,14 @@ npm run dev  # Runs on http://localhost:5173
 ```
 
 
----
-
 ##  Future Enhancements  
 🔹 **Live Travel API Integration** – Connect with Booking.com, Expedia, and real-time pricing.  
 🔹 **AR/VR Travel Previews** – Virtual exploration of destinations before booking.  
 🔹 **AI Chatbot for Travel Agents** – NLP-powered assistant to enhance customer engagement.  
 🔹 **Serverless Backend Scaling** – AWS Lambda for high-traffic scenarios.  
 
----
-
-
----
 
 ## 🛡️ License  
 This project is licensed under the **MIT License** – feel free to use, modify, and distribute.  
 
---
 
