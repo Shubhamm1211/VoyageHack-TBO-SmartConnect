@@ -1,0 +1,12 @@
+user_id,age,budget,preferences,group_size,package_id,package_name,package_cost,package_theme,booked
+1,25,1500,"Adventure, Beaches",2,A,"Adventure in the Himalayas",1200,"Adventure",0
+1,25,1500,"Adventure, Beaches",2,B,"Maldives Beach Getaway",2000,"Beach, Luxury",0
+1,25,1500,"Adventure, Beaches",2,C,"Thailand Island Hopping",1400,"Adventure, Beach",1
+2,40,2500,"Culture, History",2,C,"Thailand Island Hopping",1400,"Adventure, Beach",0
+2,40,2500,"Culture, History",2,D,"European Cultural Tour",2500,"Culture",1
+3,29,900,"Wildlife",4,E,"Local Safari Adventure",900,"Wildlife",1
+3,29,900,"Wildlife, Beaches",4,C,"Thailand Island Hopping",1400,"Adventure, Beach",0
+4,32,2000,"Beaches, Luxury",2,B,"Maldives Beach Getaway",2000,"Beach, Luxury",1
+4,32,2000,"Beaches, Luxury",2,D,"European Cultural Tour",2500,"Culture",0
+5,27,1000,"Adventure",1,A,"Adventure in the Himalayas",1200,"Adventure",0
+5,27,1000,"Adventure",1,E,"Local Safari Adventure",900,"Wildlife",1
